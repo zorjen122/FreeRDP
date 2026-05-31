@@ -6,3 +6,4 @@ abi-checker
 .cache/
 .docs/
 compile_commands.json
+.vscode/
