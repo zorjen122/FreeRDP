@@ -7,3 +7,4 @@ abi-checker
 .docs/
 compile_commands.json
 .vscode/
+.fix-*/
